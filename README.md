@@ -51,7 +51,7 @@ This makes it suitable for both **descriptive reporting** and **predictive analy
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/loryneJoy/Human_Resources_EDA.git
+   git clone https://github.com/loryneJoy/Human_Resource_ML_Project.git
    cd Human_Resources_EDA
    ```
 2. Install dependencies:
